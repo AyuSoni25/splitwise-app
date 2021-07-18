@@ -1,2 +1,18 @@
-# splitwise-app
-It is a clone of splitwise. Splitwise is an app that is used to settle down the group expenses.
+# Prerequisite
+
+Node.js
+
+# Getting Started
+
+Install dependencies by following command:
+
+### `yarn install`
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
